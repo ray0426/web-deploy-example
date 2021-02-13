@@ -1,0 +1,7 @@
+type Query{
+  getNames: [String!]
+}
+
+type Mutation{
+  submitName(name: String!): String!
+}

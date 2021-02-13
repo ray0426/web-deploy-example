@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/web-deploy-example/static/css/main.7d180cbf.chunk.css",
+    "main.js": "/web-deploy-example/static/js/main.8522bbe7.chunk.js",
+    "main.js.map": "/web-deploy-example/static/js/main.8522bbe7.chunk.js.map",
+    "runtime-main.js": "/web-deploy-example/static/js/runtime-main.895f6b23.js",
+    "runtime-main.js.map": "/web-deploy-example/static/js/runtime-main.895f6b23.js.map",
+    "static/js/2.b0deecc7.chunk.js": "/web-deploy-example/static/js/2.b0deecc7.chunk.js",
+    "static/js/2.b0deecc7.chunk.js.map": "/web-deploy-example/static/js/2.b0deecc7.chunk.js.map",
+    "static/js/3.e311090b.chunk.js": "/web-deploy-example/static/js/3.e311090b.chunk.js",
+    "static/js/3.e311090b.chunk.js.map": "/web-deploy-example/static/js/3.e311090b.chunk.js.map",
+    "index.html": "/web-deploy-example/index.html",
+    "static/css/main.7d180cbf.chunk.css.map": "/web-deploy-example/static/css/main.7d180cbf.chunk.css.map",
+    "static/js/2.b0deecc7.chunk.js.LICENSE.txt": "/web-deploy-example/static/js/2.b0deecc7.chunk.js.LICENSE.txt",
+    "static/media/logo.2d27ead7.svg": "/web-deploy-example/static/media/logo.2d27ead7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.895f6b23.js",
+    "static/js/2.b0deecc7.chunk.js",
+    "static/css/main.7d180cbf.chunk.css",
+    "static/js/main.8522bbe7.chunk.js"
+  ]
+}

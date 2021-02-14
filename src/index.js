@@ -14,12 +14,12 @@ import App from './App'
 require('dotenv').config()
 // Create an http link:
 const httpLink = new HttpLink({
-  uri: 'http://' + process.env.REACT_APP_BACKEND_URL + '/'
+  uri: 'https://' + process.env.REACT_APP_BACKEND_URL + '/'
 })
 
 // Create a WebSocket link:
 const wsLink = new WebSocketLink({
-  uri: 'ws://' + process.env.REACT_APP_BACKEND_URL + '/',
+  uri: 'wss://' + process.env.REACT_APP_BACKEND_URL + '/',
   options: { reconnect: true }
 })
 
